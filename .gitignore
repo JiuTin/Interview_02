@@ -1,0 +1,12 @@
+[Ll]ogs/
+[Ll]ibrary/
+[Oo]bj/
+[Bb]uild/
+[Tt]mp/
+[Pp]ackages/
+.vs/
+*.sln
+[Uu]serSettings/
+*.csproj
+*.vsconfig
+

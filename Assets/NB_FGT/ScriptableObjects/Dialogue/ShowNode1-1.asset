@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6c3d6f8d01b534581f39c841704775, type: 3}
+  m_Name: ShowNode1-1
+  m_EditorClassIdentifier: 
+  state: 2
+  datas:
+  - Speaker: "\u8BF4\u8BDD\u4EBA1"
+    Content: "\u4F60\u597D\n<color=red>\u8FD9\u662F\u7B2C\u4E00\u53E5\u8BDD</color>"
+    AutoNext: 0
+    NeedTyping: 1
+    CanQuickShow: 1
+  - Speaker: "\u8BF4\u8BDD\u4EBA1"
+    Content: "\u8FD9\u662F\u7B2C\u4E8C\u53E5\u8BDD<2.3>\n\u5728\u8FD9\u91CC\u53D8\u4E3A<color=blue>\u84DD\u8272</color>"
+    AutoNext: 0
+    NeedTyping: 1
+    CanQuickShow: 1
+  boxStyle: 1
